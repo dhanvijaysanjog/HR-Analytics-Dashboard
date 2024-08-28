@@ -95,10 +95,8 @@ What is the Gender distribution ?
 
 * Total Employees: The organization has grown extensively, with the current strength being 1470 employees. This implies that the organization has grown significantly and has scaled up largely.
 * Attrition Analysis: An overall of 237 employees have quit the organization. Out of these, 150 were males, and 87 were females. This means that more males than females quit the organization.
-* Departmental Attrition: The highest departmental attrition is exhibited in the Research and Development Department, comprised of an attrition rate of 56.13%, suggesting potential areas for sprucing up and enhancing employee retention strategies within this department.
 * An industry-wise impact: Life Sciences had the highest rate of attrition, which reflects that the retention challenge is pronounced in this particular sector.
 * Job role affected: Sales had the maximum rate of attrition, proving that retention efforts have to be focused on all the sales department to reduce turnover.
-* Education wise attrition: The highest attrition rate was with high school at 18.24%.
 * Attrition Rate by Gender for Different Age Group: The attrition count among the age groups of 25-34 is maximum among the rest, at 112.
 
 
