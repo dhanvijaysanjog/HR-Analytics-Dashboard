@@ -107,4 +107,5 @@ What is the Gender distribution ?
 
 ## **CONCLUSION :**
 The HR analytics dashboard depicted a critical view of employees for deriving better insights to make decisions that may keep the employees happy and continue working in the organization. The human resource department may take certain actions to mitigate the problem faced by the employees and build a positive working environment which may lead to better performance and longer retention of employees, helping an organization to generate more revenue and become successful.
+
 For any feedback, feel free to contact me at dhanvijaysanjog@gmail.com
