@@ -3,6 +3,9 @@
 ## **Project Name :** 
 HR Analytics: A Complete Employee Data Analysis Project using Power BI Dashboard
 
+![alt text](https://github.com/dhanvijaysanjog/HR-Analytics-Dashboard-/blob/main/HR%20Analytics.png "Logo Title Text 1")
+
+
 
 ## **OBJECTIVES :** 
 This Power BI HR analytics enables the HR manager and business leaders with comprehensive insights into analyzing and monitoring employee data to make informed decisions on employee retention, development, and recruitments.
@@ -100,7 +103,10 @@ What is the Gender distribution ?
 
 
 ## **FINAL DASHBOARD :**
+![alt text](https://github.com/dhanvijaysanjog/HR-Analytics-Dashboard-/blob/main/HR%20Analytics%20Dashboard.png "Logo Title Text 1")
+
 
 
 ## **CONCLUSION :**
 The HR analytics dashboard depicted a critical view of employees for deriving better insights to make decisions that may keep the employees happy and continue working in the organization. The human resource department may take certain actions to mitigate the problem faced by the employees and build a positive working environment which may lead to better performance and longer retention of employees, helping an organization to generate more revenue and become successful.
+For any feedback, feel free to contact me at dhanvijaysanjog@gmail.com
