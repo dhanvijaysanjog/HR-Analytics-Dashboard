@@ -3,7 +3,9 @@
 ## **Project Name :** 
 HR Analytics: A Complete Employee Data Analysis Project using Power BI Dashboard
 
+
 ![alt text](https://github.com/dhanvijaysanjog/HR-Analytics-Dashboard-/blob/main/HR%20Analytics.png "Logo Title Text 1")
+
 
 
 
@@ -17,16 +19,19 @@ In the project, I had a chance to :
 * Create interactive visualization dashboards for key HR metrics.
 * Provide data-driven recommendations to aid in strategic decision-making.
 
+
 ## **TECHNOLOGIES USED:**
 ```
 Advanced Excel 👨‍💻
 Power BI 📊
 ```
 
+
 ## **DATASET :** 
 The Dataset used for this project was in the form of a raw CSV file that contained 38 columns and approximately 1.48k rows. It controlled information on employee demographics, work roles, salaries and tenure, among many subjects.
 
 [Download the dataset from here](https://github.com/dhanvijaysanjog/HR-Analytics-Dashboard-/blob/main/HR_Analytics%20Dataset.csv)
+
 
 
 ## **STEPS FOLLOWED :**
@@ -69,6 +74,7 @@ I identified, at the start of the analysis, some KPIs that were needed to track 
 * Average tenure
 
 
+
 ## **KEY QUESTIONS:**
 ```
 What is the Total Employee Count ?
@@ -81,6 +87,7 @@ What is the Gender distribution ?
 ```
 
 
+
 ## **LEARNINGS :**
 * Used DAX queries to calculate multiple measures like total employees, attrition percentage, average salary and age, etc. 
 * I have used several charts and visualizations to gain insights into the employee data. Key insights derived through the analysis of the charts are as follows:
@@ -91,17 +98,19 @@ What is the Gender distribution ?
 5. Cards to calculate KPIs (Key Performing Indicators) 
 
 
+
 ## **KEY INSIGHTS :**
 
 * Total Employees: The organization has grown extensively, with the current strength being 1470 employees. This implies that the organization has grown significantly and has scaled up largely.
 * Attrition Analysis: An overall of 237 employees have quit the organization. Out of these, 150 were males, and 87 were females. This means that more males than females quit the organization.
 * An industry-wise impact: Life Sciences had the highest rate of attrition, which reflects that the retention challenge is pronounced in this particular sector.
 * Job role affected: Sales had the maximum rate of attrition, proving that retention efforts have to be focused on all the sales department to reduce turnover.
-* Attrition Rate by Gender for Different Age Group: The attrition count among the age groups of 25-34 is maximum among the rest, at 112.
+
 
 
 ## **FINAL DASHBOARD :**
 ![alt text](https://github.com/dhanvijaysanjog/HR-Analytics-Dashboard-/blob/main/HR%20Analytics%20Dashboard.png "Logo Title Text 1")
+
 
 
 
