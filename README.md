@@ -89,13 +89,17 @@ What is the Gender distribution ?
 
 
 ## **LEARNINGS :**
-* Used DAX queries to calculate multiple measures like total employees, attrition percentage, average salary and age, etc. 
 * I have used several charts and visualizations to gain insights into the employee data. Key insights derived through the analysis of the charts are as follows:
 1. Area Chart
 2. Clustered Column Chart
 3. Donut Chart
 4. Slicer
-5. Cards to calculate KPIs (Key Performing Indicators) 
+5. Cards to calculate KPIs (Key Performing Indicators)
+* Understanding Data Dynamics: Gained insights into employee attrition patterns and factors influencing it.
+* Data Cleaning and Preparation: Learned the importance of thorough data cleaning and transformation for accurate analysis.
+* Analytical Skills: Enhanced skills in using Power BI and DAX for data analysis and visualization.
+* Business Insights: Recognized the value of data-driven decision-making in HR.
+* Technical Proficiency: Developed proficiency in using Power BI for complex data analysis tasks and creating custom calculations. 
 
 
 
