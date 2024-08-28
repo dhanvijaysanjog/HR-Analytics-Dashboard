@@ -26,7 +26,7 @@ Power BI 📊
 ## **DATASET :** 
 The Dataset used for this project was in the form of a raw CSV file that contained 38 columns and approximately 1.48k rows. It controlled information on employee demographics, work roles, salaries and tenure, among many subjects.
 
-[Download the dataset from here]()
+[Download the dataset from here](https://github.com/dhanvijaysanjog/HR-Analytics-Dashboard-/blob/main/HR_Analytics%20Dataset.csv)
 
 
 ## **STEPS FOLLOWED :**
