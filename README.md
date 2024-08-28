@@ -23,7 +23,7 @@ Power BI 📊
 ## **DATASET :** 
 The Dataset used for this project was in the form of a raw CSV file that contained 38 columns and approximately 1.48k rows. It controlled information on employee demographics, work roles, salaries and tenure, among many subjects.
 
-Download the dataset from here 
+[Download the dataset from here]()
 
 
 ## **STEPS FOLLOWED :**
@@ -89,3 +89,18 @@ What is the Gender distribution ?
 
 
 ## **KEY INSIGHTS :**
+
+* Total Employees: The organization has grown extensively, with the current strength being 1470 employees. This implies that the organization has grown significantly and has scaled up largely.
+* Attrition Analysis: An overall of 237 employees have quit the organization. Out of these, 150 were males, and 87 were females. This means that more males than females quit the organization.
+* Departmental Attrition: The highest departmental attrition is exhibited in the Research and Development Department, comprised of an attrition rate of 56.13%, suggesting potential areas for sprucing up and enhancing employee retention strategies within this department.
+* An industry-wise impact: Life Sciences had the highest rate of attrition, which reflects that the retention challenge is pronounced in this particular sector.
+* Job role affected: Sales had the maximum rate of attrition, proving that retention efforts have to be focused on all the sales department to reduce turnover.
+* Education wise attrition: The highest attrition rate was with high school at 18.24%.
+* Attrition Rate by Gender for Different Age Group: The attrition count among the age groups of 25-34 is maximum among the rest, at 112.
+
+
+## **FINAL DASHBOARD :**
+
+
+## **CONCLUSION :**
+The HR analytics dashboard depicted a critical view of employees for deriving better insights to make decisions that may keep the employees happy and continue working in the organization. The human resource department may take certain actions to mitigate the problem faced by the employees and build a positive working environment which may lead to better performance and longer retention of employees, helping an organization to generate more revenue and become successful.
